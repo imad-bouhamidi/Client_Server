@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1397164376 source:e:\workspace\workspace\client\main.c
+	<stdio.h>
+	<conio.h>
+	<winsock2.h>
+	<time.h>
+	"Client_lib.c"
+
+1397164428 e:\workspace\workspace\client\client_lib.c
+	<stdio.h>
+	<conio.h>
+	<winsock2.h>
+	<time.h>
+	"Client_lib.h"
+
+1397164412 e:\workspace\workspace\client\client_lib.h
+

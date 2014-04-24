@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1397166140 source:e:\workspace\workspace\server\main.c
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	"Server_lib.c"
+
+1397166494 e:\workspace\workspace\server\server_lib.c
+	<io.h>
+	<stdio.h>
+	<winsock2.h>
+	"Server_lib.h"
+
+1397165545 e:\workspace\workspace\server\server_lib.h
+
